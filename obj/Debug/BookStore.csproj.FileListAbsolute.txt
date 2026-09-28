@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\USUARIO\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\USUARIO\source\repos\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\USUARIO\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\USUARIO\source\repos\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\BookStore.pdb

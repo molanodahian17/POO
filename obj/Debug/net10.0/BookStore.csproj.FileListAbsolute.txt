@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\bin\Debug\net10.0\BookStore.exe
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\bin\Debug\net10.0\BookStore.dll.config
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\bin\Debug\net10.0\BookStore.deps.json
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\bin\Debug\net10.0\BookStore.runtimeconfig.json
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\bin\Debug\net10.0\BookStore.dll
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\bin\Debug\net10.0\BookStore.pdb
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\net10.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\net10.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\net10.0\BookStore.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\net10.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\net10.0\BookStore.dll
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\net10.0\refint\BookStore.dll
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\net10.0\BookStore.pdb
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\net10.0\BookStore.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\BookStore\BookStore\obj\Debug\net10.0\ref\BookStore.dll
